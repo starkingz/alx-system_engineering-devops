@@ -1,0 +1,3 @@
+#!/bin/bash
+touch hello
+[4-empty](./4-empty) : Write a script that creates an empty file called hello.
