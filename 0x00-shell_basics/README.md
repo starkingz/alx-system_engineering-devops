@@ -1,4 +1,4 @@
-##0x00-shell_basics
+## 0x00-shell_basics
 
 [3-listfiles](./3-listfiles) : Display current directory contents in a long format
 
