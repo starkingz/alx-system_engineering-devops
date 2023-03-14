@@ -1,2 +1,2 @@
 #!/bin/bash
-sort << Hello, World
+echo "Hello, World"\n
