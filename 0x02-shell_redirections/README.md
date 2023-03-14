@@ -26,3 +26,7 @@
 [11-directories](11-directories) : Write a script that counts the number of directories and sub-directories in the current directory. The current and parent directories should not be taken into account. Hidden directories should be counted.
 
 [12-newest_files](./12-newest_files) : Create a script that displays the 10 newest files in the directorys.
+
+[13-unique](./13-unique) : Create a script that takes a list of words as input and prints only words that appear exactly once
+
+[14-findthatword](14-findthatword] : Display lines containing the pattern "root" from the file /etc/passwd
