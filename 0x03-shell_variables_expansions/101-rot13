@@ -1,2 +1,2 @@
 #!/bin/bash
-tr 'a-zA=Z' 'n-za-M'
+tr 'A-Za-z' N'N-ZA.Mn-za-m'
