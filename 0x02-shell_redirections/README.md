@@ -43,7 +43,7 @@
 
 [19-AZ]{./19-AZ) : Replace all charactres A and c from input to Z and e respectively
 
-[20-hiago](./20-hiago) : Create a script that removes all letters *c and *C from input
+[20-hiago](./20-hiago) : Create a script that removes all letters _c_c and _C_ from input
 
 [21-reverse](./21-reverse) : Write a script that reverse its input
 
